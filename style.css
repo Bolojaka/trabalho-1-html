@@ -1,0 +1,48 @@
+     html {
+            height: 100%;
+            width: 100%;
+        }
+
+
+        .fundoTela1 {
+            background-color: white;
+            color: red;
+        }
+
+        .fundoTela2 {
+            background-color: lightblue;
+            color: black;
+        }
+
+        .centralizado {
+            text-align: center;
+        }
+
+        .fundoTela3 {
+            background-color: green;
+            color: black;
+        }
+
+        .fundoTela4 {
+            background-color: yellow;
+            color: black;
+        }
+
+        p,
+        span {
+            color: black;
+            background-color: darkred;
+        }
+
+        h1 {
+            color: red
+        }
+
+
+        .botaoVerde {
+            padding: 10px 50px 10px 50px;
+            border-radius: 10px;
+            background-color: red;
+        }
+        
+    </style>
